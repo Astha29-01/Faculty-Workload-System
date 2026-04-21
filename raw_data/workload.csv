@@ -1,0 +1,7 @@
+workload_id,faculty_id,subject_id,hours_assigned,semester
+1,1,101,4,Sem1
+2,2,102,3,Sem1
+3,3,103,5,Sem2
+4,4,104,-2,Sem2
+5,5,105,,Sem1
+5,5,105,,Sem1

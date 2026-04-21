@@ -1,0 +1,5 @@
+faculty_id,faculty_name,department,subject,hours_assigned,semester
+5,Raj Patel,CSE,AI,-4.0,Sem1
+6,Neha Singh,ECE,Signals,,Sem1
+7,Arun Kumar,IT,Networks,5.0,Sem2
+8,Meena Roy,ME,Robotics,2.0,Sem2

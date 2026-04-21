@@ -1,0 +1,7 @@
+faculty_id,faculty_name,department,subject,hours_assigned,semester
+9,Anil Verma,CSE,ML,4,Sem1
+10,Pooja Nair,ECE,Microprocessors,3,Sem1
+11,Rahul Sen,IT,Cloud Computing,5,Sem2
+12,Simran Kaur,ME,Manufacturing,2,Sem2
+13,Vikram Shah,CSE,Big Data,-4,Sem1
+14,Nisha Iyer,ECE,VLSI,,Sem1

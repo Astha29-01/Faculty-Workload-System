@@ -1,0 +1,8 @@
+2026-04-21 18:00:04,176 - INFO - Pipeline started
+2026-04-21 18:00:04,178 - INFO - Starting ingestion...
+2026-04-21 18:00:04,184 - ERROR - Pipeline failed: [Errno 2] No such file or directory: 'raw_data/faculty.csv'
+2026-04-21 18:01:50,899 - INFO - Pipeline started
+2026-04-21 18:01:50,901 - INFO - Starting ingestion...
+2026-04-21 18:01:50,902 - ERROR - Pipeline failed: [Errno 2] No such file or directory: 'raw_data/faculty_workload_batch.csv'
+2026-04-21 18:17:19,931 - ERROR - No such comm target registered: jupyter.widget.control
+2026-04-21 18:17:19,936 - WARNING - No such comm: b99ea51a-7211-4380-91b3-da8fc50dde0a

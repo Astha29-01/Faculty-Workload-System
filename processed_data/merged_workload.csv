@@ -1,0 +1,5 @@
+workload_id,faculty_id,subject_id,hours_assigned,semester,faculty_name,department,subject_name
+1,1,101,4.0,Sem1,Amit Sharma,CSE,Data Science
+2,2,102,3.0,Sem1,Riya Das,ECE,Circuits
+3,3,103,5.0,Sem2,John Paul,IT,DBMS
+4,4,104,2.0,Sem2,Sara Khan,ME,Thermodynamics
