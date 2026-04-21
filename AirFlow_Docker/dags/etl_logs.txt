@@ -1,0 +1,25 @@
+2026-04-21 17:03:39,310 - Extract started
+2026-04-21 17:03:39,320 - Attempt 1 failed: [Errno 2] No such file or directory: 'faculty.csv'
+2026-04-21 17:03:41,334 - Extract started
+2026-04-21 17:03:41,335 - Attempt 2 failed: [Errno 2] No such file or directory: 'faculty.csv'
+2026-04-21 17:03:43,341 - Extract started
+2026-04-21 17:03:43,351 - Attempt 3 failed: [Errno 2] No such file or directory: 'faculty.csv'
+2026-04-21 17:07:16,466 - Extract started
+2026-04-21 17:07:16,469 - Attempt 1 failed: [Errno 2] No such file or directory: '..\\Projects\\DataEngineering\\Faculty_Workload_System\\processed_data\\large_dataset.csv'
+2026-04-21 17:07:18,493 - Extract started
+2026-04-21 17:07:18,496 - Attempt 2 failed: [Errno 2] No such file or directory: '..\\Projects\\DataEngineering\\Faculty_Workload_System\\processed_data\\large_dataset.csv'
+2026-04-21 17:07:20,507 - Extract started
+2026-04-21 17:07:20,510 - Attempt 3 failed: [Errno 2] No such file or directory: '..\\Projects\\DataEngineering\\Faculty_Workload_System\\processed_data\\large_dataset.csv'
+2026-04-21 17:07:43,852 - Extract started
+2026-04-21 17:07:43,856 - Attempt 1 failed: [Errno 2] No such file or directory: '..\\Projects\\DataEngineering\\Faculty_Workload_System\\processed_data\\large_dataset.csv'
+2026-04-21 17:07:45,864 - Extract started
+2026-04-21 17:07:45,865 - Attempt 2 failed: [Errno 2] No such file or directory: '..\\Projects\\DataEngineering\\Faculty_Workload_System\\processed_data\\large_dataset.csv'
+2026-04-21 17:07:47,876 - Extract started
+2026-04-21 17:07:47,876 - Attempt 3 failed: [Errno 2] No such file or directory: '..\\Projects\\DataEngineering\\Faculty_Workload_System\\processed_data\\large_dataset.csv'
+2026-04-21 17:09:11,861 - Extract started
+2026-04-21 17:09:11,895 - Extracted rows: 5
+2026-04-21 17:09:11,895 - Transform started
+2026-04-21 17:09:11,903 - Transform completed
+2026-04-21 17:09:11,904 - Load started
+2026-04-21 17:09:11,920 - Data saved to final_output.csv
+2026-04-21 17:09:11,922 - Pipeline SUCCESS
